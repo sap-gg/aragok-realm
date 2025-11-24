@@ -8,10 +8,10 @@ values:
   version: dirty-version # fallback, should be set by external values
   grade: dirty-grade # fallback, should be set by external values
   aragokPlugin:
-    version: 27
+    version: 28
     checksums:
-      base: da1014aa02c6e96956417646858511e4803e46b80c52240b4c9696a39d2a88a8
-      survival: f3fe8c42e2dba6c3b47c0fa7b317ed115e8554911655a816aae57e87a4b035c4
+      base: da276223f47dd63ef38b5d760d7de1db547476d0810539269bf57c310916f2ef
+      survival: 765bf64f379944caaa7064ebe7410e3d0ed2dcb9a9ddd9fd5c728fa14d0e8b83
 
 targets:
   proxy:
